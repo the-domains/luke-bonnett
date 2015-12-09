@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Luke Bonnett]]></title>
         <description><![CDATA[Luke Bonnett]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/luke-bonnett/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 19:08:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 19:15:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/luke-bonnett/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Luke Bonnett]]></title>
             <description><![CDATA[<article><h1>Luke Bonnett</h1><p>A highly motivated and experienced manager within the hotel sector with over 8 years of experience, has a track record of providing exemplary levels of service to a broad range of guests. Luke is currently looking to resume his career after dedicating the last two years to caring for elderly family members. 
@@ -13,9 +13,9 @@
 Excellent creative skills, thorough knowledge of Adobe applications, as well as proficiency in Office applications, networking and extensive experience liaising with clients and suppliers. Now fully committed to continuing a career on a full-time basis.
 
 During employment within the service industry, Luke managed various events, lead project / staff meetings, run the day to day business, created company procedures, marketed services and researched other revenue streams. Utilising communication skills, Luke maintained successful working relationships with staff and suppliers.</p></article>]]></description>
-            <link>undefinedluke-bonnett/index.html</link>
+            <link>https://thegrid.ai/luke-bonnett/luke-bonnett/index.html</link>
             <guid isPermaLink="false">a9a64867-4e0f-47ca-910d-d2e7f9a137ff</guid>
-            <pubDate>Wed, 09 Dec 2015 19:07:45 GMT</pubDate>
+            <pubDate>Wed, 09 Dec 2015 19:15:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
