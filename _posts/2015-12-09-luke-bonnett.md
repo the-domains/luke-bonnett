@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A Summary
-datePublished: '2015-12-09T19:15:18.473Z'
-dateModified: '2015-12-09T19:14:59.631Z'
+datePublished: '2015-12-22T14:21:52.201Z'
+dateModified: '2015-12-09T19:17:41.914Z'
 title: Luke Bonnett
 author: []
 sourcePath: _posts/2015-12-09-luke-bonnett.md
